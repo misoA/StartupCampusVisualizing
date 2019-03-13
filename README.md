@@ -8,8 +8,9 @@
 선수들이 스타트업캠퍼스에서 함께 성장하는 모습을 `Git`의 `branch`가 `merge`되고 `tree`를 만드는 구조에 투영시켜 보았습니다.  
 선수들은 자신들의 뿌리(`root`, 각자의 지역)에서 출발하여 스타트업캠퍼스의 프로그램들을 통해 가지(`branch`)를 뻗어나가며 최종적으로 열매(`commit`)를 맺게 됩니다.  
 이러한 일련의 과정을 [`Gource`](https://gource.io)라는 `Git 시각화 도구`를 사용하여 구현하였습니다.  
-(Gource의 자세한 내용은 [링크](https://gource.io)를 통해 확인할 수 있습니다.) 
-따라서 이 프로젝트는 파일들의 내용보다는 Git의 `history`에 중점을 두고 작업하였습니다.  
+(Gource의 자세한 내용은 [링크](https://gource.io)를 통해 확인할 수 있습니다.)   
+
+_이 프로젝트는 파일들의 내용보다는 Git의 `history`에 중점을 두고 작업하였습니다._
 
 >The StartupCampus is the place where the people(players) who want to be a entrepreneur.  
 >The players are organizing the team and share ideas.  
