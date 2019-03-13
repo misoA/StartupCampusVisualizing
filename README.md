@@ -8,4 +8,4 @@
 >Developers can be seen working on the tree at the times they contributed to the project.  
 
 
-[![Watch the video](thumbnail.jpg)](https://youtu.be/wVwQv1qhzeY)
+[![Watch the video](thumbnail.png)](https://youtu.be/wVwQv1qhzeY)
