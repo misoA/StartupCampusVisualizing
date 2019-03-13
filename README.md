@@ -7,3 +7,5 @@
 >Directories appear as branches with files as leaves.   
 >Developers can be seen working on the tree at the times they contributed to the project.  
 
+
+[![Watch the video](thumbnail.jpg)](https://youtu.be/wVwQv1qhzeY)
