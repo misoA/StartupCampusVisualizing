@@ -10,7 +10,7 @@
 이러한 일련의 과정을 [`Gource`](https://gource.io)라는 `Git 시각화 도구`를 사용하여 구현하였습니다.  
 (Gource의 자세한 내용은 [링크](https://gource.io)를 통해 확인할 수 있습니다.)   
 
-_이 프로젝트는 파일들의 내용보다는 Git의 `history`에 중점을 두고 작업하였습니다._
+__이 프로젝트는 파일들의 내용보다는 Git의 `history`에 중점을 두고 작업하였습니다.__
 
 >The StartupCampus is the place where the people(players) who want to be a entrepreneur.  
 >The players are organizing the team and share ideas.  
