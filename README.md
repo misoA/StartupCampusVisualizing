@@ -10,14 +10,13 @@
 > 따라서 파일들의 내용보다는 Git의 history에 중점을 두고 작업하였습니다.  
 > [Gource](https://gource.io)라는 Git 시각화 도구를 사용하였으며, 자세한 내용은 [링크](https://gource.io)를 통해 확인할 수 있습니다.   
 
-##### 자, 이제 아래의 영상을 통해 결과를 확인해보세요.   
-
 >The StartupCampus is the place where the people(players) who want to be a entrepreneur.  
 >The players are organizing the team and share ideas.  
 >We used [Gource](https://gource.io), Gource is animated tree with the root directory of the project at its centre.   
 >Directories appear as branches with files as leaves.   
 >Developers can be seen working on the tree at the times they contributed to the project.  
 
+##### 자, 이제 아래의 영상을 통해 결과를 확인해보세요.   
 
 ##### just enjoy
 
