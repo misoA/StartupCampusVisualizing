@@ -15,7 +15,7 @@ __이 프로젝트는 파일들의 내용보다는 Git의 `history`에 중점을
 >The StartupCampus is the place where the people(players) who want to be a entrepreneur.  
 >The players are organizing the team and share ideas.  
 >We used behavioral data from players and visualized it.  
->We used [Gource](https://gource.io), Gource is a Tool, that animated tree with the root directory of the project at its centre.   
+>We used [Gource](https://gource.io), Gource is a tool, that animated tree with the root directory of the project at its centre.   
 >Directories appear as branches with files as leaves.   
 
 ##### 자, 이제 아래의 영상을 통해 결과를 확인해보세요.   
