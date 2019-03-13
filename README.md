@@ -1,7 +1,7 @@
 # ScamEnding by PK²
 
 #### This is visualization work 
-#### We used behavioral data from players on the [StartupCampus](https://www.gstartupcampus.or.kr/) Signature course 2
+### We used behavioral data from players on the [StartupCampus](https://www.gstartupcampus.or.kr/) Signature course 2
 
 > '스캠엔딩'은 [StartupCampus](https://www.gstartupcampus.or.kr/) 시그니처 코스 2기 선수들의 행동(history) 데이터로 시각화를 진행한 작업입니다.  
 > 스타트업캠퍼스는 스타트업을 하고 싶은 청년들(선수)이 모여 함께 팀을 만들고 생각을 공유하는 곳입니다.  
@@ -21,3 +21,23 @@
 ##### just enjoy
 
 [![Watch the video](thumbnail.png)](https://youtu.be/wVwQv1qhzeY)
+
+
+## License
+
+GNU license
+
+Copyright (C) PK², [Park Miso](https://github.com/misoA), [Kim Sangbin](https://github.com/tikitkay), Kim Jisoo
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
